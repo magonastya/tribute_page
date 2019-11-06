@@ -1,0 +1,27 @@
+body {
+	margin-top: 40px;
+	text-align: center;
+}
+h1 {
+	font-size: 40px;
+	background: gray;
+}
+h2 {
+	font-size: 20px;
+	color: gray;
+}
+#image {
+	height: 300px;
+	max-width: 100%;
+}
+#image-caption {
+	color: gray;
+	text-align: center;
+}
+#tribute-link {
+	color: gray;
+	font-size: 20px;
+}
+p {
+	text-align: justify;
+}
